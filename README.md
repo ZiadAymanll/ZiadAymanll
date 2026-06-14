@@ -2,7 +2,7 @@
 <h3 align="center">Junior Java Backend Developer · CS Graduate · Zagazig University</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZiadAyman&style=flat&color=orange&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=ZiadAymanll&style=flat&color=orange&label=PROFILE+VIEWS" />
 </p>
 
 ---
@@ -38,12 +38,12 @@ class Ziad {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZiadAyman&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadAyman&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZiadAymanll&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadAymanll&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZiadAyman&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZiadAymanll&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
