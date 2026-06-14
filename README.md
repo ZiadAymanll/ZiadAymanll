@@ -29,7 +29,7 @@ class Ziad {
     String[] csCore        = { "OOP", "Data Structures", "Algorithms", "Design Patterns" };
     String[] webBasics     = { "HTML", "CSS", "JavaScript" };
     String[] tools         = { "Git", "GitHub", "IntelliJ IDEA", "VS Code" };
-    String   currentlyLearning = "Spring Boot · Docker · Microservices";
+    String[] currentlyLearning ={ "Spring Boot , Docker , Microservices"};
 }
 ```
 
