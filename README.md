@@ -51,10 +51,10 @@ class Ziad {
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/ZiadAyman" target="_blank">
+  <a href="https://www.linkedin.com/in/ziad-ayman-1533871bb/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="ziad.ayman.tech@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
